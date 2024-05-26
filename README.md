@@ -1,2 +1,2 @@
-# RESPONSIVE-PORTFOLIO-WEBSITE
+![Screenshot 2024-05-27 004738](https://github.com/payalsinha12/RESPONSIVE-PORTFOLIO-WEBSITE/assets/126937282/f9f2e3d7-ff70-4c14-abf7-600e376b8f36)# RESPONSIVE-PORTFOLIO-WEBSITE
 This project is a comprehensive and fully responsive portfolio website that showcases my work, skills, and professional experiences. The primary goal of the website is to provide potential employers, clients, and collaborators with a detailed overview of my capabilities and accomplishments in web development, graphic design, and data analysis.
